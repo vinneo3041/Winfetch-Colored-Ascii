@@ -9,4 +9,8 @@ Python script to color ASCII arts for Winfetch config.ps1
 5. Insert **'1'** for generating a preview, or **'2'** for generating the Powershell string sequence.
 6. When generating the string sequence, put it on the *config.ps1* file, inside the **$CustomAscii = @( ... )**
 
+![image](https://github.com/vinneo3041/Winfetch-Colored-Ascii/assets/56792107/0ef2ab72-2718-40b1-a168-beb1a8518cdb)
+
+![image](https://github.com/vinneo3041/Winfetch-Colored-Ascii/assets/56792107/18fe745b-d54a-4afa-b1ae-02a1f7bc0e8d)
+
 
